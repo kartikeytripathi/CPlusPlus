@@ -19,6 +19,6 @@ int main()
 	mymap.insert(it,pair<char,int>('b',300));
 	
 	for(it=mymap.begin();it!=mymap.end();it++)
-	cout<<(*it).first<<"  "<<(*it).second<<endl;
+	cout<<(*it).first<<"  "<<(*it).second<<end;
 	
 }
